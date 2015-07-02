@@ -1,7 +1,7 @@
 {
   "name": "dbox",
   "description": "NodeJS SDK for the Dropbox API",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "author": "Brock Whitten <brock@sintaxi.com>",
   "contributors": [
     { "name": "Brock Whitten", "email": "brock@sintaxi.com" },
